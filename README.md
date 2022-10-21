@@ -1,6 +1,6 @@
 Olá eu sou Guilherme Alves...
 
-👀 Estudando Análise e Desenvolvimento de Sistemas (ADS).🍀
+👀 Estudante de Análise e Desenvolvimento de Sistemas (ADS).🍀
 <div>	
 <a href="https://www.instagram.com/hgui1993/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank">
 <a href="guilhermealves61379450@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank">
